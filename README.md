@@ -30,3 +30,7 @@ The components used are as follows:
 2. The outputs and the circuit can be found in `images` folder.
  
 3. The code to be executed is found in `code` script. 
+
+***
+Wokwi is an online Electronics Simulator. You can use it to simulate Arduino, ESP32, STM32, and many other popular boards, parts and sensors.
+Open and start simulation in wokwi: [![Wokwi badge](wokwi_badge.svg)](https://wokwi.com/)
